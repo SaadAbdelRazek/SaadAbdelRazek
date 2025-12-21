@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saad Abdelrazek</h1>
 <h3 align="center">
-Full-Stack Web Developer (Laravel & Modern Frontend) <br/>
+Full-Stack Web Developer (Laravel) <br/>
 Building Scalable Web Applications & Intelligent Systems
 </h3>
 
