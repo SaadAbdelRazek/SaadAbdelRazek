@@ -68,7 +68,7 @@
     <animate attributeName="width" from="0" to="200" dur="1s" begin="1s" fill="freeze"/>
   </rect>
 
-  <text x="600" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#cbd5e1" opacity="0">Software Engineer
+  <text x="600" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#cbd5e1" opacity="0">Software Engineer  |  Building Scalable Systems
     <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="1.6s" fill="freeze"/>
   </text>
 
