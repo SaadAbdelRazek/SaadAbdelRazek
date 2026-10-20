@@ -1,7 +1,7 @@
 <!-- ═════════════════════════  HEADER  ═════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Saad%20Abdelrazek&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20PHP%20%26%20Laravel&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<img src="./assets/banner.svg" width="100%" alt="Saad Abdelrazek - Backend Software Engineer" />
 
 <a href="https://github.com/SaadAbdelRazek">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+scalable+backends+that+run+in+production;Multi-tenant+SaaS+%7C+REST+APIs+%7C+AI+Integrations;Clean+architecture.+Solid+performance.+Real+impact." alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SaadAbdelRazek&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/SaadAbdelRazek?style=for-the-badge&logo=github&label=Followers&color=0e75b6" alt="Followers" />
 <img src="https://img.shields.io/badge/Based%20in-Cairo%2C%20Egypt-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=for-the-badge" alt="Status" />
 
@@ -236,6 +236,6 @@ A full company website with its own content dashboard.
 
 ⭐ *If you like my work, feel free to star my repositories!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer" width="100%" alt="footer" />
+<img src="./assets/footer.svg" width="100%" alt="footer" />
 
 </div>
