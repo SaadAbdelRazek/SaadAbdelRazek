@@ -1,10 +1,13 @@
 <!-- ═════════════════════════  HEADER  ═════════════════════════ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SaadAbdelRazek/SaadAbdelRazek/main/assets/banner.svg" width="100%" alt="Saad Abdelrazek - Backend Software Engineer" />
+<img src="https://raw.githubusercontent.com/SaadAbdelRazek/SaadAbdelRazek/main/assets/banner.svg?v=2" width="100%" alt="Saad Abdelrazek - Backend Software Engineer" />
 
 <a href="https://github.com/SaadAbdelRazek">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+scalable+backends+that+run+in+production;Multi-tenant+SaaS+%7C+REST+APIs+%7C+AI+Integrations;Clean+architecture.+Solid+performance.+Real+impact." alt="Typing SVG" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+scalable+backends+that+run+in+production;Multi-tenant+SaaS+%7C+REST+APIs+%7C+AI+Integrations;Clean+architecture.+Solid+performance.+Real+impact.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0369A1&center=true&vCenter=true&width=700&lines=Building+scalable+backends+that+run+in+production;Multi-tenant+SaaS+%7C+REST+APIs+%7C+AI+Integrations;Clean+architecture.+Solid+performance.+Real+impact." alt="Typing SVG" />
+</picture>
 </a>
 
 <br/>
@@ -64,7 +67,10 @@ class SaadAbdelrazek extends BackendEngineer
 <div align="center">
 
 ### ⚙️ Backend & Architecture
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,firebase,redis&theme=dark" alt="backend" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,mysql,firebase,redis&theme=dark">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,firebase,redis&theme=light" alt="backend" />
+</picture>
 <br/>
 <sub><b>OOP · MVC · SOLID · Repository & Factory Patterns · Event-Driven Architecture · Multi-Tenancy · Queues & Jobs · Caching</b></sub>
 
@@ -81,12 +87,18 @@ class SaadAbdelrazek extends BackendEngineer
 <br/><br/>
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=js,html,css,vue,react,bootstrap,jquery&theme=dark" alt="frontend" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,html,css,vue,react,bootstrap,jquery&theme=dark">
+  <img src="https://skillicons.dev/icons?i=js,html,css,vue,react,bootstrap,jquery&theme=light" alt="frontend" />
+</picture>
 
 <br/><br/>
 
 ### 🛠️ Tools, Testing & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,postman,phpstorm,vscode,linux&theme=dark" alt="tools" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,postman,phpstorm,vscode,linux&theme=dark">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,phpstorm,vscode,linux&theme=light" alt="tools" />
+</picture>
 <br/>
 <sub><b>PHPUnit · Feature & API Testing · Composer · VPS / Shared Hosting · CI/CD Fundamentals</b></sub>
 
@@ -191,16 +203,28 @@ A full company website with its own content dashboard.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaadAbdelRazek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadAbdelRazek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SaadAbdelRazek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6&count_private=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SaadAbdelRazek&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0369a1&icon_color=7c3aed&text_color=334155&count_private=true" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadAbdelRazek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadAbdelRazek&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0369a1&text_color=334155" alt="Top languages" />
+</picture>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SaadAbdelRazek&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" alt="Streak stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SaadAbdelRazek&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8">
+  <img src="https://streak-stats.demolab.com?user=SaadAbdelRazek&theme=default&hide_border=true&background=FFFFFF&ring=0369A1&fire=7C3AED&currStreakLabel=0369A1&currStreakNum=334155&sideNums=334155&sideLabels=334155&dates=64748B" alt="Streak stats" />
+</picture>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SaadAbdelRazek&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=SaadAbdelRazek&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaadAbdelRazek&theme=flat&no-frame=true&column=7&margin-w=10" alt="Trophies" />
+</picture>
 
 </div>
 
@@ -236,6 +260,6 @@ A full company website with its own content dashboard.
 
 ⭐ *If you like my work, feel free to star my repositories!*
 
-<img src="https://raw.githubusercontent.com/SaadAbdelRazek/SaadAbdelRazek/main/assets/footer.svg" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/SaadAbdelRazek/SaadAbdelRazek/main/assets/footer.svg?v=2" width="100%" alt="footer" />
 
 </div>
