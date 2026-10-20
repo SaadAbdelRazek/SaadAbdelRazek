@@ -15,5 +15,5 @@
   <circle cx="120" cy="220" r="100" fill="#8b5cf6" opacity="0.08"/>
   <text x="600" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="62" font-weight="700" fill="#ffffff">Saad Abdelrazek</text>
   <rect x="520" y="128" width="160" height="4" rx="2" fill="url(#accent)"/>
-  <text x="600" y="176" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#cbd5e1">Backend Software Engineer  |  PHP &amp; Laravel</text>
+  <text x="600" y="176" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#cbd5e1">Backend Software Engineer  |  PHP + Laravel</text>
 </svg>
