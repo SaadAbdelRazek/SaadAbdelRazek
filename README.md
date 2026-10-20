@@ -1,107 +1,241 @@
-<h1 align="center">Hi 👋, I'm Saad Abdelrazek</h1>
-<h3 align="center">
-Full-Stack Web Developer (Laravel) <br/>
-Building Scalable Web Applications & Intelligent Systems
-</h3>
+<!-- ═════════════════════════  HEADER  ═════════════════════════ -->
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaadAbdelRazek&label=Profile%20Views&color=0e75b6&style=flat" alt="SaadAbdelRazek" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Saad%20Abdelrazek&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20PHP%20%26%20Laravel&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saad-abdelrazek">
-    <img src="https://img.shields.io/badge/LinkedIn-Saad%20Abdelrazek-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:saadabdelrazekk2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+<a href="https://github.com/SaadAbdelRazek">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+scalable+backends+that+run+in+production;Multi-tenant+SaaS+%7C+REST+APIs+%7C+AI+Integrations;Clean+architecture.+Solid+performance.+Real+impact." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SaadAbdelRazek&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/Based%20in-Cairo%2C%20Egypt-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=for-the-badge" alt="Status" />
+
+<br/><br/>
+
+<a href="https://saad-abdelrazek.vercel.app"><img src="https://img.shields.io/badge/Portfolio-saad--abdelrazek.vercel.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/saad-abdelrazek"><img src="https://img.shields.io/badge/LinkedIn-Saad%20Abdelrazek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:saad.abdelrazek.omar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+<br/>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science Graduate with strong foundations in **Software Engineering**
-- 💡 Specialized in **Laravel Backend Development** & **RESTful APIs**
-- 🧠 Experienced in integrating **AI services** into real products
-- 🛒 Built scalable **E-Commerce & Educational Platforms**
-- 💳 Implemented secure **Payment Gateways (Stripe)**
-- ⚡ Passionate about clean architecture, performance, and real-world solutions
+```php
+<?php
 
-> I enjoy transforming complex ideas into reliable, maintainable, and scalable systems.
+class SaadAbdelrazek extends BackendEngineer
+{
+    public string $role     = 'Backend Software Engineer';
+    public string $location = 'Cairo, Egypt 🇪🇬';
+    public string $degree   = 'B.Sc. Computer Science (GPA 3.65 / 4.00)';
+
+    public array $stack = ['PHP 8', 'Laravel', 'MySQL', 'REST APIs', 'Vue.js', 'React'];
+
+    public array $strengths = [
+        'Multi-tenant SaaS architecture',
+        'Concurrency control & database-level locking',
+        'Third-party & AI integrations (WhatsApp Business API, Gemini)',
+        'Query optimization & performance tuning',
+        'Production debugging & real-client delivery',
+    ];
+
+    public function mindset(): string
+    {
+        return 'Turn complex business problems into reliable, maintainable systems.';
+    }
+}
+```
+
+> 💡 I build and maintain **production systems** across **healthcare, business management, and service platforms**, taking features from design all the way to release.
+
+<br/>
 
 ---
 
 ## 🧰 Tech Stack
 
+<div align="center">
+
+### ⚙️ Backend & Architecture
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,firebase,redis&theme=dark" alt="backend" />
+<br/>
+<sub><b>OOP · MVC · SOLID · Repository & Factory Patterns · Event-Driven Architecture · Multi-Tenancy · Queues & Jobs · Caching</b></sub>
+
+<br/><br/>
+
+### 🔌 APIs & Integrations
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Webhooks-0ea5e9?style=for-the-badge&logo=webhook&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<br/><br/>
+
 ### 🎨 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)
+<img src="https://skillicons.dev/icons?i=js,html,css,vue,react,bootstrap,jquery&theme=dark" alt="frontend" />
 
-### ⚙️ Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<br/><br/>
 
-### 🧠 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+### 🛠️ Tools, Testing & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,postman,phpstorm,vscode,linux&theme=dark" alt="tools" />
+<br/>
+<sub><b>PHPUnit · Feature & API Testing · Composer · VPS / Shared Hosting · CI/CD Fundamentals</b></sub>
 
-### 🛠 Tools & Services
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp)
-![ngrok](https://img.shields.io/badge/ngrok-1F1F1F?style=for-the-badge&logo=ngrok)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
+</div>
+
+<br/>
 
 ---
 
-## 🧩 What I Work With in Laravel
+## 🚀 Featured Projects
 
-- Authentication & Authorization (Sanctum)
-- RESTful API Design
-- Database Design & Optimization
-- Payment Integration (Stripe)
-- Webhooks & Background Jobs
-- AI API Integration (Gemini / NLP)
-- E-Commerce Logic (Cart, Checkout, Orders)
-- Clean Architecture & MVC Best Practices
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🏥 Clinic SaaS Platform
+<sub>`Laravel` · `React` · `Multi-Tenant` · `WhatsApp API` — **In Production**</sub>
+
+A multi-tenant platform used daily by clinic staff and patients (**600–800 bookings/month**).
+
+- 🏢 Tenant-based data isolation across clinics
+- 📅 Booking, inventory, insurance & ad-tracking modules
+- 🔒 Eliminated double-booking with **database-level locking** per tenant, branch, doctor & time slot
+- ⚡ Refactored legacy queries for faster responses
+- 💬 WhatsApp Business API + internal messaging system
+
+  </td>
+  <td width="50%" valign="top">
+
+### 🧭 Internal Company Management System
+<sub>`Laravel` · `Vue.js` — **In Production**</sub>
+
+A company-wide platform built to streamline day-to-day operations.
+
+- 👥 Departments, employees, projects & performance reporting
+- 🔄 Department-specific workflow logic
+- ⭐ Staff points & rating system
+- 🖥️ Remote-work monitoring
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🤝 Donation Management Platform
+<sub>`Vue.js` · `Firebase` — **Delivered & In Use**</sub>
+
+A system built for a charitable organization.
+
+- 📦 Donation distribution management
+- 🚚 Field-agent tracking
+- 💰 Internal & external financial account tracking
+
+  </td>
+  <td width="50%" valign="top">
+
+### 🌐 Company Website + CMS
+<sub>`Laravel` · `React` — **Built Solo**</sub>
+
+A full company website with its own content dashboard.
+
+- 🛎️ Service showcase & online service booking
+- 📝 CMS-style admin dashboard
+- 💼 Job & recruitment postings
+
+  </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🛋️ AI + 3D Décor E-Commerce Platform — *Graduation Project*
+> **Backend built independently** · [`View Repository →`](https://github.com/SaadAbdelRazek/Graduation-Project)
+
+- 🔐 Authentication and core e-commerce logic (cart, checkout)
+- 🤖 **Gemini-powered chatbot** that guides the full shopping flow
+- 🎯 Recommendation logic based on user preferences and space
+
+### 🎓 EduQuest — *Smart Educational Platform*
+> Quizzes, analytics, roles & admin dashboard · [`View Repository →`](https://github.com/SaadAbdelRazek/EduQuest/tree/master)
+
+<br/>
 
 ---
 
-## 📌 Featured Projects
+## 🔥 What I Bring to the Table
 
-| Project | Description | Link |
-|--------|-------------|------|
-| 🎓 **EduQuest** | Smart educational platform with quizzes, analytics, roles & admin dashboard | [GitHub](https://github.com/SaadAbdelRazek/EduQuest/tree/master) |
-| 🛋️ **Graduation Project** | AI-powered home decor e-commerce platform (Backend – Laravel) | [GitHub](https://github.com/SaadAbdelRazek/Graduation-Project) |
+| 🧩 Area | 💪 What I Do |
+|:--|:--|
+| **System Design** | Multi-tenant architecture, event-driven flows, clean & layered code |
+| **Reliability** | Concurrency handling, DB-level locking, production debugging |
+| **Performance** | SQL query tuning, caching strategies, background jobs |
+| **Integrations** | WhatsApp Business API, Gemini AI, payment gateways, webhooks |
+| **Security** | Sanctum authentication, RBAC, middleware-based authorization |
+| **Collaboration** | Client & stakeholder meetings, turning requirements into shipped features |
+
+<br/>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaadAbdelRazek&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaadAbdelRazek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadAbdelRazek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=SaadAbdelRazek&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" alt="Streak stats" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SaadAbdelRazek&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+
+</div>
+
+<br/>
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **B.Sc. Computer Science** — Benha University, Faculty of Computers and Artificial Intelligence · *Graduated May 2025 · GPA 3.65 / 4.00*
+- 📜 Full Stack Web Development Training Certificate
+- 📜 PHP Web Development Internship Certificate
+- 📜 Business English Certificate
+- 🌍 **Languages:** Arabic (Native) · English (Professional Working Proficiency)
+
+<br/>
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saad-abdelrazek">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:saadabdelrazekk2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+<div align="center">
+
+*Have a project, an idea, or an opportunity? Let's build something great together.*
+
+<br/>
+
+<a href="https://saad-abdelrazek.vercel.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-8b5cf6?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/saad-abdelrazek"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:saad.abdelrazek.omar@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
 
 ⭐ *If you like my work, feel free to star my repositories!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer" width="100%" alt="footer" />
+
+</div>
