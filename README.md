@@ -1,26 +1,26 @@
 <!-- ═════════════════════════  HEADER  ═════════════════════════ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SaadAbdelRazek/SaadAbdelRazek/main/assets/banner.svg?v=2" width="100%" alt="Saad Abdelrazek - Backend Software Engineer" />
+<img src="https://raw.githubusercontent.com/SaadAbdelRazek/SaadAbdelRazek/main/assets/banner.svg?v=3" width="100%" alt="Saad Abdelrazek - Backend Software Engineer" />
 
 <a href="https://github.com/SaadAbdelRazek">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+scalable+backends+that+run+in+production;Multi-tenant+SaaS+%7C+REST+APIs+%7C+AI+Integrations;Clean+architecture.+Solid+performance.+Real+impact.">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0369A1&center=true&vCenter=true&width=700&lines=Building+scalable+backends+that+run+in+production;Multi-tenant+SaaS+%7C+REST+APIs+%7C+AI+Integrations;Clean+architecture.+Solid+performance.+Real+impact." alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+scalable+backends+that+run+in+production;Multi-tenant+SaaS+%7C+REST+APIs+%7C+AI+Integrations;Clean+architecture.+Solid+performance.+Real+impact.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+scalable+backends+that+run+in+production;Multi-tenant+SaaS+%7C+REST+APIs+%7C+AI+Integrations;Clean+architecture.+Solid+performance.+Real+impact." alt="Typing SVG" />
 </picture>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/SaadAbdelRazek?style=for-the-badge&logo=github&label=Followers&color=0e75b6" alt="Followers" />
-<img src="https://img.shields.io/badge/Based%20in-Cairo%2C%20Egypt-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/github/followers/SaadAbdelRazek?style=for-the-badge&logo=github&label=Followers&color=ec4899" alt="Followers" />
+<img src="https://img.shields.io/badge/Based%20in-Cairo%2C%20Egypt-06b6d4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=for-the-badge" alt="Status" />
 
 <br/><br/>
 
-<a href="https://saad-abdelrazek.vercel.app"><img src="https://img.shields.io/badge/Portfolio-saad--abdelrazek.vercel.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://saad-abdelrazek.vercel.app"><img src="https://img.shields.io/badge/Portfolio-saad--abdelrazek.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/saad-abdelrazek"><img src="https://img.shields.io/badge/LinkedIn-Saad%20Abdelrazek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:saad.abdelrazek.omar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:saad.abdelrazek.omar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-f43f5e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -77,11 +77,11 @@ class SaadAbdelrazek extends BackendEngineer
 <br/><br/>
 
 ### 🔌 APIs & Integrations
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-06b6d4?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Webhooks-0ea5e9?style=for-the-badge&logo=webhook&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini%20AI-8b5cf6?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Webhooks-f59e0b?style=for-the-badge&logo=webhook&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 <br/><br/>
@@ -204,25 +204,25 @@ A full company website with its own content dashboard.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SaadAbdelRazek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6&count_private=true">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SaadAbdelRazek&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0369a1&icon_color=7c3aed&text_color=334155&count_private=true" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SaadAbdelRazek&show_icons=true&hide_border=true&bg_color=0f1229&title_color=f472b6&icon_color=22d3ee&text_color=e2e8f0&count_private=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SaadAbdelRazek&show_icons=true&hide_border=true&bg_color=faf5ff&title_color=7c3aed&icon_color=ec4899&text_color=334155&count_private=true" alt="GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadAbdelRazek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadAbdelRazek&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0369a1&text_color=334155" alt="Top languages" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SaadAbdelRazek&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8">
-  <img src="https://streak-stats.demolab.com?user=SaadAbdelRazek&theme=default&hide_border=true&background=FFFFFF&ring=0369A1&fire=7C3AED&currStreakLabel=0369A1&currStreakNum=334155&sideNums=334155&sideLabels=334155&dates=64748B" alt="Streak stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadAbdelRazek&layout=compact&hide_border=true&bg_color=0f1229&title_color=f472b6&text_color=e2e8f0">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadAbdelRazek&layout=compact&hide_border=true&bg_color=faf5ff&title_color=7c3aed&text_color=334155" alt="Top languages" />
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=SaadAbdelRazek&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SaadAbdelRazek&theme=dark&hide_border=true&background=0F1229&ring=F472B6&fire=FBBF24&currStreakLabel=22D3EE&currStreakNum=E2E8F0&sideNums=E2E8F0&sideLabels=A5B4FC&dates=94A3B8">
+  <img src="https://streak-stats.demolab.com?user=SaadAbdelRazek&theme=default&hide_border=true&background=FAF5FF&ring=7C3AED&fire=EC4899&currStreakLabel=7C3AED&currStreakNum=334155&sideNums=334155&sideLabels=6D28D9&dates=64748B" alt="Streak stats" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=SaadAbdelRazek&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10">
   <img src="https://github-profile-trophy.vercel.app/?username=SaadAbdelRazek&theme=flat&no-frame=true&column=7&margin-w=10" alt="Trophies" />
 </picture>
 
@@ -252,14 +252,14 @@ A full company website with its own content dashboard.
 
 <br/>
 
-<a href="https://saad-abdelrazek.vercel.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-8b5cf6?style=for-the-badge" /></a>
+<a href="https://saad-abdelrazek.vercel.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-7c3aed?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/saad-abdelrazek"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:saad.abdelrazek.omar@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:saad.abdelrazek.omar@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-f43f5e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
 ⭐ *If you like my work, feel free to star my repositories!*
 
-<img src="https://raw.githubusercontent.com/SaadAbdelRazek/SaadAbdelRazek/main/assets/footer.svg?v=2" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/SaadAbdelRazek/SaadAbdelRazek/main/assets/footer.svg?v=3" width="100%" alt="footer" />
 
 </div>
