@@ -68,8 +68,8 @@ class SaadAbdelrazek extends BackendEngineer
 
 ### ⚙️ Backend & Architecture
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,mysql,firebase,redis&theme=dark">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,firebase,redis&theme=light" alt="backend" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php%2Claravel%2Cmysql%2Cfirebase%2Credis&theme=dark">
+  <img src="https://skillicons.dev/icons?i=php%2Claravel%2Cmysql%2Cfirebase%2Credis&theme=light" alt="backend" />
 </picture>
 <br/>
 <sub><b>OOP · MVC · SOLID · Repository & Factory Patterns · Event-Driven Architecture · Multi-Tenancy · Queues & Jobs · Caching</b></sub>
@@ -88,16 +88,16 @@ class SaadAbdelrazek extends BackendEngineer
 
 ### 🎨 Frontend
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,html,css,vue,react,bootstrap,jquery&theme=dark">
-  <img src="https://skillicons.dev/icons?i=js,html,css,vue,react,bootstrap,jquery&theme=light" alt="frontend" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Chtml%2Ccss%2Cvue%2Creact%2Cbootstrap%2Cjquery&theme=dark">
+  <img src="https://skillicons.dev/icons?i=js%2Chtml%2Ccss%2Cvue%2Creact%2Cbootstrap%2Cjquery&theme=light" alt="frontend" />
 </picture>
 
 <br/><br/>
 
 ### 🛠️ Tools, Testing & DevOps
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,postman,phpstorm,vscode,linux&theme=dark">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,phpstorm,vscode,linux&theme=light" alt="tools" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cpostman%2Cphpstorm%2Cvscode%2Clinux&theme=dark">
+  <img src="https://skillicons.dev/icons?i=git%2Cgithub%2Cpostman%2Cphpstorm%2Cvscode%2Clinux&theme=light" alt="tools" />
 </picture>
 <br/>
 <sub><b>PHPUnit · Feature & API Testing · Composer · VPS / Shared Hosting · CI/CD Fundamentals</b></sub>
