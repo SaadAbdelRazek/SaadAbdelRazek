@@ -1,7 +1,7 @@
 <!-- ═════════════════════════  HEADER  ═════════════════════════ -->
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Saad Abdelrazek - Backend Software Engineer" />
+<img src="https://raw.githubusercontent.com/SaadAbdelRazek/SaadAbdelRazek/main/assets/banner.svg" width="100%" alt="Saad Abdelrazek - Backend Software Engineer" />
 
 <a href="https://github.com/SaadAbdelRazek">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+scalable+backends+that+run+in+production;Multi-tenant+SaaS+%7C+REST+APIs+%7C+AI+Integrations;Clean+architecture.+Solid+performance.+Real+impact." alt="Typing SVG" />
@@ -236,6 +236,6 @@ A full company website with its own content dashboard.
 
 ⭐ *If you like my work, feel free to star my repositories!*
 
-<img src="./assets/footer.svg" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/SaadAbdelRazek/SaadAbdelRazek/main/assets/footer.svg" width="100%" alt="footer" />
 
 </div>
